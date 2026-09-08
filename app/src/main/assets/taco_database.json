@@ -1,0 +1,572 @@
+[
+  {
+    "name": "Arroz Branco Cozido",
+    "calories": 128,
+    "protein": 2.5,
+    "carbs": 28.1,
+    "fat": 0.2,
+    "fiber": 1.6,
+    "source": "TACO",
+    "tip": "Combinação clássica com feijão fornece aminograma completo."
+  },
+  {
+    "name": "Arroz Integral Cozido",
+    "calories": 124,
+    "protein": 2.6,
+    "carbs": 25.8,
+    "fat": 1.0,
+    "fiber": 2.7,
+    "source": "TACO",
+    "tip": "Rico em fibras e com baixo índice glicêmico."
+  },
+  {
+    "name": "Feijão Carioca Cozido",
+    "calories": 76,
+    "protein": 4.8,
+    "carbs": 13.6,
+    "fat": 0.5,
+    "fiber": 8.5,
+    "source": "TACO",
+    "tip": "Excelente fonte de fibras e ferro solúvel."
+  },
+  {
+    "name": "Feijão Preto Cozido",
+    "calories": 77,
+    "protein": 4.5,
+    "carbs": 14.0,
+    "fat": 0.5,
+    "fiber": 8.4,
+    "source": "TACO",
+    "tip": "Rico em antioxidantes antocianinas."
+  },
+  {
+    "name": "Peito de Frango Grelhado",
+    "calories": 165,
+    "protein": 31.0,
+    "carbs": 0.0,
+    "fat": 3.6,
+    "fiber": 0.0,
+    "source": "TACO",
+    "tip": "Proteína magra fundamental para hipertrofia."
+  },
+  {
+    "name": "Peito de Frango Cozido Desfiado",
+    "calories": 150,
+    "protein": 29.0,
+    "carbs": 0.0,
+    "fat": 3.0,
+    "fiber": 0.0,
+    "source": "TACO",
+    "tip": "Ideal para refeições preparadas e marmitas."
+  },
+  {
+    "name": "Coxa de Frango Sem Pele Assada",
+    "calories": 167,
+    "protein": 26.8,
+    "carbs": 0.0,
+    "fat": 6.0,
+    "fiber": 0.0,
+    "source": "TACO",
+    "tip": "Corte suculento e saboroso com boa densidade proteica."
+  },
+  {
+    "name": "Patinho Moído Cozido",
+    "calories": 219,
+    "protein": 35.9,
+    "carbs": 0.0,
+    "fat": 7.3,
+    "fiber": 0.0,
+    "source": "TACO",
+    "tip": "Uma das carnes bovinas mais magras e nutritivas."
+  },
+  {
+    "name": "Alcatra Grelhada",
+    "calories": 185,
+    "protein": 28.0,
+    "carbs": 0.0,
+    "fat": 7.5,
+    "fiber": 0.0,
+    "source": "TACO",
+    "tip": "Rica em zinco, ferro heme e vitamina B12."
+  },
+  {
+    "name": "Contrafilé Grelhado Sem Gordura",
+    "calories": 206,
+    "protein": 29.5,
+    "carbs": 0.0,
+    "fat": 9.0,
+    "fiber": 0.0,
+    "source": "TACO",
+    "tip": "Corte nobre com alto valor biológico de aminoácidos."
+  },
+  {
+    "name": "Carne Moída Cozida (Músculo/Acém)",
+    "calories": 212,
+    "protein": 26.7,
+    "carbs": 0.0,
+    "fat": 10.9,
+    "fiber": 0.0,
+    "source": "TACO",
+    "tip": "Muito versátil para refogados e recheios."
+  },
+  {
+    "name": "Filé de Tilápia Grelhado",
+    "calories": 128,
+    "protein": 26.0,
+    "carbs": 0.0,
+    "fat": 2.7,
+    "fiber": 0.0,
+    "source": "TACO",
+    "tip": "Peixe branco magro de digestão rápida."
+  },
+  {
+    "name": "Salmão Grelhado",
+    "calories": 211,
+    "protein": 24.2,
+    "carbs": 0.0,
+    "fat": 12.1,
+    "fiber": 0.0,
+    "source": "TACO",
+    "tip": "Excelente fonte de gorduras saudáveis Ômega-3."
+  },
+  {
+    "name": "Atum em Conserva (em Água)",
+    "calories": 116,
+    "protein": 25.5,
+    "carbs": 0.0,
+    "fat": 0.8,
+    "fiber": 0.0,
+    "source": "TACO",
+    "tip": "Opção prática e proteica sem adição de gordura."
+  },
+  {
+    "name": "Ovo Cozido Inteiro",
+    "calories": 146,
+    "protein": 13.3,
+    "carbs": 0.6,
+    "fat": 9.5,
+    "fiber": 0.0,
+    "source": "TACO",
+    "tip": "Proteína de referência com gema rica em colina e gorduras boas."
+  },
+  {
+    "name": "Ovo Frito",
+    "calories": 240,
+    "protein": 15.6,
+    "carbs": 0.6,
+    "fat": 18.6,
+    "fiber": 0.0,
+    "source": "TACO",
+    "tip": "Preparo rápido; considere a quantidade de óleo adicionada."
+  },
+  {
+    "name": "Clara de Ovo Cozida",
+    "calories": 54,
+    "protein": 11.3,
+    "carbs": 0.7,
+    "fat": 0.2,
+    "fiber": 0.0,
+    "source": "TACO",
+    "tip": "Proteína puríssima e quase zero gordura."
+  },
+  {
+    "name": "Tapioca Pronta (Massa Hidratada)",
+    "calories": 240,
+    "protein": 0.0,
+    "carbs": 60.0,
+    "fat": 0.0,
+    "fiber": 0.5,
+    "source": "TACO",
+    "tip": "Carboidrato simples sem glúten, ótimo pré-treino rápido."
+  },
+  {
+    "name": "Batata Doce Cozida",
+    "calories": 86,
+    "protein": 1.6,
+    "carbs": 20.1,
+    "fat": 0.1,
+    "fiber": 2.2,
+    "source": "TACO",
+    "tip": "Carboidrato de baixo índice glicêmico favorito para treinos."
+  },
+  {
+    "name": "Batata Inglesa Cozida",
+    "calories": 52,
+    "protein": 1.2,
+    "carbs": 11.9,
+    "fat": 0.1,
+    "fiber": 1.3,
+    "source": "TACO",
+    "tip": "Baixa densidade calórica e alta saciedade."
+  },
+  {
+    "name": "Mandioca Cozida",
+    "calories": 125,
+    "protein": 0.6,
+    "carbs": 30.1,
+    "fat": 0.3,
+    "fiber": 1.6,
+    "source": "TACO",
+    "tip": "Energia duradoura rica em minerais."
+  },
+  {
+    "name": "Mandioquinha / Batata Baroa Cozida",
+    "calories": 85,
+    "protein": 0.9,
+    "carbs": 18.9,
+    "fat": 0.2,
+    "fiber": 2.1,
+    "source": "TACO",
+    "tip": "Carboidrato de digestão muito suave e sabor marcante."
+  },
+  {
+    "name": "Cuscuz de Milho Cozido",
+    "calories": 113,
+    "protein": 2.2,
+    "carbs": 25.0,
+    "fat": 0.7,
+    "fiber": 1.8,
+    "source": "TACO",
+    "tip": "Tradição brasileira energizante e saborosa."
+  },
+  {
+    "name": "Banana Prata",
+    "calories": 89,
+    "protein": 1.3,
+    "carbs": 22.8,
+    "fat": 0.3,
+    "fiber": 2.0,
+    "source": "TACO",
+    "tip": "Rica em potássio e vitaminas do complexo B."
+  },
+  {
+    "name": "Banana Nanica",
+    "calories": 92,
+    "protein": 1.4,
+    "carbs": 23.8,
+    "fat": 0.3,
+    "fiber": 1.9,
+    "source": "TACO",
+    "tip": "Doce e ideal para pré-treino ou receitas."
+  },
+  {
+    "name": "Maçã Gala com Casca",
+    "calories": 52,
+    "protein": 0.3,
+    "carbs": 13.8,
+    "fat": 0.2,
+    "fiber": 2.4,
+    "source": "TACO",
+    "tip": "Rica em pectina para melhora da digestão."
+  },
+  {
+    "name": "Mamão Formosa",
+    "calories": 45,
+    "protein": 0.8,
+    "carbs": 11.6,
+    "fat": 0.1,
+    "fiber": 1.8,
+    "source": "TACO",
+    "tip": "Contém papaína que melhora o fracionamento proteico."
+  },
+  {
+    "name": "Laranja Pera",
+    "calories": 46,
+    "protein": 1.0,
+    "carbs": 11.5,
+    "fat": 0.1,
+    "fiber": 1.8,
+    "source": "TACO",
+    "tip": "Alta concentração de vitamina C natural."
+  },
+  {
+    "name": "Morango Cru",
+    "calories": 30,
+    "protein": 0.9,
+    "carbs": 6.8,
+    "fat": 0.3,
+    "fiber": 1.7,
+    "source": "TACO",
+    "tip": "Baixíssima caloria por volume, ideal para cutting."
+  },
+  {
+    "name": "Abacaxi Cru",
+    "calories": 48,
+    "protein": 0.9,
+    "carbs": 12.3,
+    "fat": 0.1,
+    "fiber": 1.0,
+    "source": "TACO",
+    "tip": "Possui bromelina para auxílio digestivo pós-refeição."
+  },
+  {
+    "name": "Melancia",
+    "calories": 33,
+    "protein": 0.9,
+    "carbs": 8.1,
+    "fat": 0.0,
+    "fiber": 0.4,
+    "source": "TACO",
+    "tip": "Altamente hidratante e rica em citrulina."
+  },
+  {
+    "name": "Abacate Cru",
+    "calories": 96,
+    "protein": 1.2,
+    "carbs": 6.0,
+    "fat": 8.4,
+    "fiber": 6.3,
+    "source": "TACO",
+    "tip": "Gordura monoinsaturada de altíssima qualidade e rico em fibras."
+  },
+  {
+    "name": "Uva Itália / Niágara",
+    "calories": 68,
+    "protein": 0.7,
+    "carbs": 17.3,
+    "fat": 0.2,
+    "fiber": 0.9,
+    "source": "TACO",
+    "tip": "Refrescante com polifenóis antioxidantes."
+  },
+  {
+    "name": "Cenoura Crua",
+    "calories": 34,
+    "protein": 1.3,
+    "carbs": 7.7,
+    "fat": 0.2,
+    "fiber": 3.2,
+    "source": "TACO",
+    "tip": "Rica em betacaroteno precursor da vitamina A."
+  },
+  {
+    "name": "Brócolis Cozido",
+    "calories": 25,
+    "protein": 2.1,
+    "carbs": 4.4,
+    "fat": 0.5,
+    "fiber": 3.4,
+    "source": "TACO",
+    "tip": "Superalimento vegetal rico em sulforafano e fibras."
+  },
+  {
+    "name": "Alface Americana",
+    "calories": 9,
+    "protein": 1.4,
+    "carbs": 1.7,
+    "fat": 0.1,
+    "fiber": 1.0,
+    "source": "TACO",
+    "tip": "Volume com calorias praticamente desprezíveis."
+  },
+  {
+    "name": "Tomate Cru",
+    "calories": 15,
+    "protein": 1.1,
+    "carbs": 3.1,
+    "fat": 0.2,
+    "fiber": 1.2,
+    "source": "TACO",
+    "tip": "Rico em licopeno para saúde cardiovascular."
+  },
+  {
+    "name": "Beterraba Cozida",
+    "calories": 32,
+    "protein": 1.3,
+    "carbs": 7.2,
+    "fat": 0.1,
+    "fiber": 1.9,
+    "source": "TACO",
+    "tip": "Rica em nitratos naturais que melhoram a vasodilatação."
+  },
+  {
+    "name": "Azeite de Oliva Extra Virgem",
+    "calories": 884,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 100.0,
+    "fiber": 0.0,
+    "source": "TACO",
+    "tip": "Gordura cardioprotetora essencial para temperos."
+  },
+  {
+    "name": "Castanha-do-Pará",
+    "calories": 643,
+    "protein": 14.5,
+    "carbs": 15.1,
+    "fat": 63.5,
+    "fiber": 7.9,
+    "source": "TACO",
+    "tip": "Maior fonte natural de selênio do planeta."
+  },
+  {
+    "name": "Amendoim Torrado",
+    "calories": 544,
+    "protein": 22.5,
+    "carbs": 20.3,
+    "fat": 43.9,
+    "fiber": 8.0,
+    "source": "TACO",
+    "tip": "Densidade calórica e proteica excelente para hipertrofia."
+  },
+  {
+    "name": "Pasta de Amendoim Integral",
+    "calories": 588,
+    "protein": 26.0,
+    "carbs": 20.0,
+    "fat": 50.0,
+    "fiber": 6.0,
+    "source": "TACO",
+    "tip": "Deliciosa opção concentrada de gorduras e proteínas."
+  },
+  {
+    "name": "Leite Integral",
+    "calories": 60,
+    "protein": 3.2,
+    "carbs": 4.6,
+    "fat": 3.2,
+    "fiber": 0.0,
+    "source": "TACO",
+    "tip": "Rico em cálcio biodisponível e proteínas do soro/caseína."
+  },
+  {
+    "name": "Leite Desnatado",
+    "calories": 35,
+    "protein": 3.4,
+    "carbs": 4.9,
+    "fat": 0.1,
+    "fiber": 0.0,
+    "source": "TACO",
+    "tip": "Mesmo aporte proteico e de cálcio do leite sem a gordura."
+  },
+  {
+    "name": "Iogurte Natural Integral",
+    "calories": 66,
+    "protein": 4.1,
+    "carbs": 4.5,
+    "fat": 3.6,
+    "fiber": 0.0,
+    "source": "TACO",
+    "tip": "Rico em probióticos benéficos para a microbiota intestinal."
+  },
+  {
+    "name": "Queijo Cottage",
+    "calories": 98,
+    "protein": 11.1,
+    "carbs": 3.4,
+    "fat": 4.3,
+    "fiber": 0.0,
+    "source": "TACO",
+    "tip": "Queijo leve de baixíssima gordura e rico em caseína."
+  },
+  {
+    "name": "Queijo Muçarela",
+    "calories": 330,
+    "protein": 22.6,
+    "carbs": 3.0,
+    "fat": 25.2,
+    "fiber": 0.0,
+    "source": "TACO",
+    "tip": "Saboroso e proteico; atente-se ao valor calórico."
+  },
+  {
+    "name": "Queijo Minas Frescal",
+    "calories": 264,
+    "protein": 17.4,
+    "carbs": 3.2,
+    "fat": 20.2,
+    "fiber": 0.0,
+    "source": "TACO",
+    "tip": "Opção leve tradicional na rotina alimentar brasileira."
+  },
+  {
+    "name": "Pão Francês",
+    "calories": 300,
+    "protein": 8.0,
+    "carbs": 58.6,
+    "fat": 3.1,
+    "fiber": 2.3,
+    "source": "TACO",
+    "tip": "Tradição do café da manhã; 1 unidade média tem ~50g."
+  },
+  {
+    "name": "Pão de Forma Integral",
+    "calories": 253,
+    "protein": 9.4,
+    "carbs": 49.9,
+    "fat": 3.7,
+    "fiber": 6.9,
+    "source": "TACO",
+    "tip": "Boa quantidade de fibras por fatia."
+  },
+  {
+    "name": "Aveia em Flocos",
+    "calories": 394,
+    "protein": 13.9,
+    "carbs": 66.6,
+    "fat": 8.5,
+    "fiber": 9.1,
+    "source": "TACO",
+    "tip": "Contém betaglucana para controle do colesterol."
+  },
+  {
+    "name": "Macarrão Cozido (Semolina)",
+    "calories": 140,
+    "protein": 5.0,
+    "carbs": 28.0,
+    "fat": 0.9,
+    "fiber": 1.8,
+    "source": "TACO",
+    "tip": "Ótima fonte de energia para reposição pós-treino."
+  },
+  {
+    "name": "Whey Protein Concentrado 80%",
+    "calories": 400,
+    "protein": 80.0,
+    "carbs": 10.0,
+    "fat": 5.0,
+    "fiber": 0.0,
+    "source": "TACO",
+    "tip": "Suplementação de rápida absorção proteica."
+  },
+  {
+    "name": "Whey Protein Isolado 90%",
+    "calories": 366,
+    "protein": 90.0,
+    "carbs": 3.3,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "source": "TACO",
+    "tip": "Livre de lactose e ultra puro."
+  },
+  {
+    "name": "Creatina Monohidratada",
+    "calories": 0,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "source": "TACO",
+    "tip": "Aumenta força muscular e ressintetização de ATP."
+  },
+  {
+    "name": "Açaí Puro (Sem Xarope)",
+    "calories": 58,
+    "protein": 0.8,
+    "carbs": 6.2,
+    "fat": 3.9,
+    "fiber": 2.6,
+    "source": "TACO",
+    "tip": "Riquíssimo em polifenóis e antioxidantes."
+  },
+  {
+    "name": "Suco de Laranja Natural",
+    "calories": 45,
+    "protein": 0.7,
+    "carbs": 10.4,
+    "fat": 0.2,
+    "fiber": 0.2,
+    "source": "TACO",
+    "tip": "Hidratante e energético natural."
+  }
+]
